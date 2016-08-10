@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.9.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-optipng": "^5.2.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
