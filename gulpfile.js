@@ -33,7 +33,7 @@ gulp.task('imagemin', function() {
 gulp.task('imgmin', function() {
 
     let imgDir = gulp.env.dir;
-    let imgSrc = gulp.env.src || 'I:\\Dev_Du\\shomop-sms-www\\src\\main\\resources\\public\\images\\*';
+    let imgSrc = gulp.env.src || 'C:\\MyWork\\Dev_Du\\img2min\\*';
     let imgDest = gulp.env.dest || 'C:\\Users\\swj\\Desktop\\' + Date.now();
     let filePath = imgDir ? imgDir + '/*.{gif,jpg,jpeg,png,svg}' : imgSrc;
 

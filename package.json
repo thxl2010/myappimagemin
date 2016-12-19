@@ -7,5 +7,14 @@
     "imagemin-jpeg-recompress": "^5.1.0",
     "imagemin-optipng": "^5.2.0",
     "imagemin-pngquant": "^5.0.0"
+  },
+  "devDependencies": {
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-svgo": "^5.2.0",
+    "is-gif": "^1.0.0",
+    "lazy-req": "^1.1.0",
+    "pretty-bytes": "^4.0.2",
+    "plur": "^2.1.2",
+    "through2-concurrent": "^1.1.1"
   }
 }
